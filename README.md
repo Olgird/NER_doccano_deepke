@@ -1,0 +1,2 @@
+# NER_doccano_deepke
+Named entity extraction(命名实体抽取),通常会用到doccano平台，有时训练模型会用到deepke，这个代码功能是将doccano导出的jsonl数据直接转换成deepke中ner所用的数据
