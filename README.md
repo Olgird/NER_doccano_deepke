@@ -17,7 +17,7 @@ Named entity extraction(命名实体抽取),通常会用到doccano平台，有�
 
 ### 1. 打开doccano2deepke.ipynb
 
-![image-20231113144633767](image\image-20231113144633767.png)
+![image-20231113144633767]([image\image-20231113144633767.png](https://github.com/Olgird/NER_doccano_deepke/blob/main/image/image-20231113144633767.png))
 
 ### 2. 填写jsonl_path 和 ratio
 
