@@ -25,16 +25,16 @@ jsonl_path 为 导出的jsonl 文件路径
 
 ratio 为 训练集、测试集、验证集比例
 
-![image-20231113144912504](image\image-20231113144912504.png)
+![image-20231113144912504](https://github.com/Olgird/NER_doccano_deepke/blob/main/image/image-20231113144912504.png)
 
 ### 3. 运行doccano2deepke.ipynb，查看结果
 
 结果会在json文件夹中输出json文件
 
-![image-20231113145008452](image\image-20231113145008452.png)
+![image-20231113145008452](https://github.com/Olgird/NER_doccano_deepke/blob/main/image/image-20231113145008452.png)
 
 在txt文件夹中输出txt文件
 
-![image-20231113145134883](image\image-20231113145134883.png)
+![image-20231113145134883](https://github.com/Olgird/NER_doccano_deepke/blob/main/image/image-20231113145134883.png)
 
 txt文件的数据集为deepke ner中所需数据
